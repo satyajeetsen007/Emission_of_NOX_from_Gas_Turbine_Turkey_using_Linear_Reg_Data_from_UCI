@@ -1,0 +1,1 @@
+# Emission_of_NOX_from_Gas_Turbine_Turkey_using_Linear_Reg_Data_from_UCI
